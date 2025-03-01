@@ -9,7 +9,7 @@ A boilerplate social network for developers, built using the MERN stack that all
 
 1. Clone this repo
    ```sh
-   git clone https://github.com/sara/DevConnect.git
+   git clone https://github.com/2singh/Dev_Connect_Project
    ```
 2. Install dependencies
    ```sh
