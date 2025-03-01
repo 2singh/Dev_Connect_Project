@@ -9,7 +9,7 @@ A boilerplate social network for developers, built using the MERN stack that all
 
 1. Clone this repo
    ```sh
-   git clone https://github.com/MitulDavid/DevConnect.git
+   git clone https://github.com/sara/DevConnect.git
    ```
 2. Install dependencies
    ```sh
@@ -24,11 +24,6 @@ A boilerplate social network for developers, built using the MERN stack that all
    npm run dev
    ```
    <br/>
-
-## **References**
-
-Built following [Brad Traversy's MERN stack course](https://www.udemy.com/course/mern-stack-front-to-back/).
-<br/><br/>
 
 ## **Tech Stack**
 
